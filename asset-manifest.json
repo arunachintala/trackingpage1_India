@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/trackingpage1_India/static/css/main.b4acd22d.css",
+    "main.js": "/trackingpage1_India/static/js/main.76062986.js",
+    "static/js/453.036a9012.chunk.js": "/trackingpage1_India/static/js/453.036a9012.chunk.js",
+    "static/media/Rectangle 6319.svg": "/trackingpage1_India/static/media/Rectangle 6319.c89b8b7950bf5adb83fea7e420dbd401.svg",
+    "static/media/zippyy_logo.svg": "/trackingpage1_India/static/media/zippyy_logo.e3a2cbb1b5567999d625f101db9a6699.svg",
+    "static/media/Phone.svg": "/trackingpage1_India/static/media/Phone.bcd06364abef3677fca8435a7a8f99d8.svg",
+    "index.html": "/trackingpage1_India/index.html",
+    "static/media/mail.svg": "/trackingpage1_India/static/media/mail.d6753e70ced41b0105dac0d079eeab81.svg",
+    "static/media/Vector.svg": "/trackingpage1_India/static/media/Vector.045283ef35410e474ba9124537d03f49.svg",
+    "main.b4acd22d.css.map": "/trackingpage1_India/static/css/main.b4acd22d.css.map",
+    "main.76062986.js.map": "/trackingpage1_India/static/js/main.76062986.js.map",
+    "453.036a9012.chunk.js.map": "/trackingpage1_India/static/js/453.036a9012.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4acd22d.css",
+    "static/js/main.76062986.js"
+  ]
+}
